@@ -119,7 +119,7 @@
                         <div class="pr-md-5">
                             <icon name="ni ni-settings-gear-65" class="mb-5" size="lg" type="success" shadow
                                   rounded></icon>
-                            <h3>Awesome features</h3>
+                            <h3>Awesome features (fr)</h3>
                             <p>The kit comes with three pre-built pages to help you get started faster. You can change
                                 the text and images and you're good to go.</p>
                             <ul class="list-unstyled mt-5">
